@@ -11,7 +11,7 @@ A Flutter plugin for allowing users to authenticate with native Android &amp; iO
   s.homepage         = 'http://example.com'
   s.license          = { :file => '../LICENSE' }
   s.author           = { 'Your Company' => 'email@example.com' }
-  s.source           = { :path => '.' }
+  s.source           = { :git => 'git://github.com/opp-studio/flutter_twitter_login.git' }
   s.source_files = 'Classes/**/*'
   s.public_header_files = 'Classes/**/*.h'
   s.dependency 'Flutter'
